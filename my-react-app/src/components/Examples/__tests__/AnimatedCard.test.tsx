@@ -41,3 +41,5 @@ describe('AnimatedCard', () => {
     expect(screen.getByText('1024')).toBeInTheDocument() // 默认浏览数
   })
 })
+
+
